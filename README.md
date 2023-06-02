@@ -1,2 +1,2 @@
 # CBIR-project
-Разработан прототип системы CBIR. Для запуска поначалу нужно загрузить датасет из kaggle.
+Разработан прототип системы CBIR. Сначала нужно загрузить на своем устройстве данные из kaggle по ссылке https://www.kaggle.com/datasets/abtabm/multiclassimagedatasetairplanecar
